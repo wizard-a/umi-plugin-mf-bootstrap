@@ -1,5 +1,5 @@
 {
-  "name": "@umijs/plugin-mf-bootstrap",
+  "name": "umi-plugin-mf-bootstrap",
   "version": "0.0.1",
   "scripts": {
     "start": "dumi dev",
