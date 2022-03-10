@@ -1,6 +1,7 @@
 {
   "name": "umi-plugin-mf-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
